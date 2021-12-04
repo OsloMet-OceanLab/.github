@@ -1,5 +1,8 @@
 ## Welcome to OsloMet Oceanlab / Havlaboratoriet github page 👋
 
+In this page you will find information about available equipment and infrastructure, as well as a collection of software repositories.
+
+
 <!--
 
 **Here are some ideas to get you started:**
