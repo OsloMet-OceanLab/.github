@@ -1,1 +1,2 @@
-# .github
+# Welcome to OsloMet Oceanlab / Havlaboratoriet 
+
