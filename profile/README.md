@@ -1,6 +1,8 @@
-## Welcome to OsloMet Oceanlab / Havlaboratoriet github page 👋
+## Welcome to OsloMet Oceanlab / Havlaboratoriet github page 🌊🌊🌊🌊 
 
-In this page you will find information about available equipment and infrastructure, as well as a collection of software repositories.
+OsloMet Oceanlab/Havlaboratoriet coordinates research, education, innovation, and public outreach activities related to ocean technology and sustainability.
+
+In this page we will publish information about available equipment and infrastructure, as well as a collection of software repositories.
 
 
 <!--
