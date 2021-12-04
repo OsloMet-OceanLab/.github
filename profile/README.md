@@ -1,5 +1,6 @@
 ## Welcome to OsloMet Oceanlab / Havlaboratoriet github page 🌊🌊🌊🌊 
 
+<img src="https://your-image-url.type" width="100" height="100">
 
 OsloMet Oceanlab/Havlaboratoriet coordinates research, education, innovation, and public outreach activities related to ocean technology and sustainability.
 
