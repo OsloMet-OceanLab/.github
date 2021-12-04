@@ -2,7 +2,7 @@
 
 <img src="https://github.com/OsloMet-OceanLab/.github/blob/main/profile/Oceanlab_alternativ.png" >
 
-OsloMet Oceanlab/Havlaboratoriet coordinates research, education, innovation, and public outreach activities related to ocean technology and sustainability.
+Oceanlab/Havlaboratoriet coordinates OsloMet's research, education, innovation, and public outreach activities related to ocean technology and sustainability.
 
 In this page we will publish information about available equipment and infrastructure, as well as a collection of software repositories.
 
