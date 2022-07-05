@@ -8,7 +8,7 @@ In this page we will publish information about available equipment and infrastru
 
 Shortcuts:
 
-- [List of equipment] (https://github.com/OsloMet-OceanLab/.github/wiki/List-of-equipment)
+- [List of equipment](https://github.com/OsloMet-OceanLab/.github/wiki/List-of-equipment)
 - [Oceanlab Wiki](https://github.com/OsloMet-OceanLab/.github/wiki)
 
 
