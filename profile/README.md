@@ -6,7 +6,11 @@ Oceanlab/Havlaboratoriet coordinates OsloMet's research, education, innovation, 
 
 In this page we will publish information about available equipment and infrastructure, as well as a collection of software repositories.
 
-https://github.com/OsloMet-OceanLab/.github/wiki
+Shortcuts:
+
+- [List of equipment] (https://github.com/OsloMet-OceanLab/.github/wiki/List-of-equipment)
+- [Oceanlab Wiki](https://github.com/OsloMet-OceanLab/.github/wiki)
+
 
 <!--
 
